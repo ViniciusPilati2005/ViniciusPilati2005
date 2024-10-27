@@ -18,5 +18,3 @@
 <br>
 
 Apaixonado por tecnologia. O objetivo é evoluir projetos e habilidades, um commit de cada vez.
-
-![snake gif](https://github.com/ViniciusPilati2005/ViniciusPilati2005/blob/output/github-contribution-grid-snake.svg)
